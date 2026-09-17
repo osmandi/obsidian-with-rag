@@ -3,7 +3,8 @@
 Search Obsidian notes using a RAG.
 
 Architecture:
-```mearmaid
+
+```mermaid
 graph TD
     %% Estilos y Clases
     classDef storage fill:#2A2D34,stroke:#4B5263,stroke-width:2px,color:#FFF;
