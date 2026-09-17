@@ -1,0 +1,15 @@
+[project]
+name = "docs-rag-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "deepagents>=0.7.15",
+    "langchain-core>=1.6.3",
+    "langchain-openai>=1.6.2",
+    "langchain-text-splitters>=1.1.2",
+    "langchain[openai]>=1.4.1",
+    "numpy>=2.5.3",
+    "requests>=2.34.2",
+]
